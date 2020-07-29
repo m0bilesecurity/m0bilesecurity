@@ -1,16 +1,14 @@
-### Hi there 👋
+### Follow me - Mobile Security
 
-<!--
-**m0bilesecurity/m0bilesecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/paolo-smedile/">
+    <img align="left" alt="Paolo Smedile | Linkedin" width="24px" src="" />
+  </a>
+  <a href="https://twitter.com/mobilesecurity_">
+    <img align="left" alt="Mobile Security | Twitter" width="26px" src="" />
+  </a>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![m0bilesecurity's github stats](https://github-readme-stats.vercel.app/api?username=m0bilesecurity&show_icons=true&theme=cobalt)
+
+⭐️ from [@m0bilesecurity](https://github.com/m0bilesecurity)
