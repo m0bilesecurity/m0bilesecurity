@@ -11,4 +11,3 @@
 
 ![m0bilesecurity's github stats](https://github-readme-stats.vercel.app/api?username=m0bilesecurity&show_icons=true&theme=cobalt)
 
-⭐️ from [@m0bilesecurity](https://github.com/m0bilesecurity)
