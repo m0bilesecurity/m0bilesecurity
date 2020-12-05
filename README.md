@@ -9,4 +9,4 @@
 ![m0bilesecurity's github stats](https://github-readme-stats.vercel.app/api?username=m0bilesecurity&show_icons=true&theme=cobalt)
 -->
 
-[![Runtime Mobile Security (RMS) | Logo](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security/blob/master/static/RMS_Github_Header.png)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
+[![Runtime Mobile Security (RMS) | Logo](https://github.com/m0bilesecurity/m0bilesecurity/blob/master/img/RMS_Github_Header.png)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
